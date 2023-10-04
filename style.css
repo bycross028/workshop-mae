@@ -33,5 +33,6 @@ body {
 }
 
 body {
-  background: #262627 !important;
+  background: rgb(0,125,255);
+  background: linear-gradient(90deg, rgba(0,125,255,1) 0%, rgba(1,47,160,1) 100%);
 }
